@@ -1,0 +1,45 @@
+{
+    "name": "Department of the Interior",
+    "description": "<p>The United States Department of the Interior (DOI) is the United States federal executive department of the U.S. government responsible for the management and conservation of most federal land and natural resources, and the administration of programs relating to American Indians, Alaska Natives, Native Hawaiians, territorial affairs, and insular areas of the United States.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/350px-US-DeptOfTheInterior-Seal.svg.png",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-the-interior\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of the Interior",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/350px-US-DeptOfTheInterior-Seal.svg.png",
+            "humanURL": "http:\/\/www.doi.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-the-interior-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.doi.gov\/developer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.doi.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Department_of_the_Interior"
+        }
+    ]
+}
